@@ -1,0 +1,14 @@
+C:\Users\paugu\Desktop\!DAM\Entorns de desenvolupament\IDE\A06\A06\bin\Debug\net8.0\A06.exe
+C:\Users\paugu\Desktop\!DAM\Entorns de desenvolupament\IDE\A06\A06\bin\Debug\net8.0\A06.deps.json
+C:\Users\paugu\Desktop\!DAM\Entorns de desenvolupament\IDE\A06\A06\bin\Debug\net8.0\A06.runtimeconfig.json
+C:\Users\paugu\Desktop\!DAM\Entorns de desenvolupament\IDE\A06\A06\bin\Debug\net8.0\A06.dll
+C:\Users\paugu\Desktop\!DAM\Entorns de desenvolupament\IDE\A06\A06\bin\Debug\net8.0\A06.pdb
+C:\Users\paugu\Desktop\!DAM\Entorns de desenvolupament\IDE\A06\A06\obj\Debug\net8.0\A06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paugu\Desktop\!DAM\Entorns de desenvolupament\IDE\A06\A06\obj\Debug\net8.0\A06.AssemblyInfoInputs.cache
+C:\Users\paugu\Desktop\!DAM\Entorns de desenvolupament\IDE\A06\A06\obj\Debug\net8.0\A06.AssemblyInfo.cs
+C:\Users\paugu\Desktop\!DAM\Entorns de desenvolupament\IDE\A06\A06\obj\Debug\net8.0\A06.csproj.CoreCompileInputs.cache
+C:\Users\paugu\Desktop\!DAM\Entorns de desenvolupament\IDE\A06\A06\obj\Debug\net8.0\A06.dll
+C:\Users\paugu\Desktop\!DAM\Entorns de desenvolupament\IDE\A06\A06\obj\Debug\net8.0\refint\A06.dll
+C:\Users\paugu\Desktop\!DAM\Entorns de desenvolupament\IDE\A06\A06\obj\Debug\net8.0\A06.pdb
+C:\Users\paugu\Desktop\!DAM\Entorns de desenvolupament\IDE\A06\A06\obj\Debug\net8.0\A06.genruntimeconfig.cache
+C:\Users\paugu\Desktop\!DAM\Entorns de desenvolupament\IDE\A06\A06\obj\Debug\net8.0\ref\A06.dll
