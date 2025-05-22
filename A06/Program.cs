@@ -10,6 +10,7 @@ namespace A06
             int maxim = int.Parse(Console.ReadLine());
             int valor = 7;
             int count = Metodes.comptadorMultiples(valor, maxim);
+            Console.WriteLine("Prove exemple del git");
 
             // Llista de múltiples de 7 menors que maxim
             Console.WriteLine($"Múltiples de {valor} menors que {maxim}:");

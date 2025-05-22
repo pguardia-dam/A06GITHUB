@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paugu\\Desktop\\!DAM\\Entorns de desenvolupament\\IDE\\A06\\A06\\A06.csproj": {}
+    "C:\\Users\\paugu\\Desktop\\!DAM\\EntornsDeDesenvolupament\\IDE\\A06\\A06\\A06.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paugu\\Desktop\\!DAM\\Entorns de desenvolupament\\IDE\\A06\\A06\\A06.csproj": {
+    "C:\\Users\\paugu\\Desktop\\!DAM\\EntornsDeDesenvolupament\\IDE\\A06\\A06\\A06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paugu\\Desktop\\!DAM\\Entorns de desenvolupament\\IDE\\A06\\A06\\A06.csproj",
+        "projectUniqueName": "C:\\Users\\paugu\\Desktop\\!DAM\\EntornsDeDesenvolupament\\IDE\\A06\\A06\\A06.csproj",
         "projectName": "A06",
-        "projectPath": "C:\\Users\\paugu\\Desktop\\!DAM\\Entorns de desenvolupament\\IDE\\A06\\A06\\A06.csproj",
+        "projectPath": "C:\\Users\\paugu\\Desktop\\!DAM\\EntornsDeDesenvolupament\\IDE\\A06\\A06\\A06.csproj",
         "packagesPath": "C:\\Users\\paugu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paugu\\Desktop\\!DAM\\Entorns de desenvolupament\\IDE\\A06\\A06\\obj\\",
+        "outputPath": "C:\\Users\\paugu\\Desktop\\!DAM\\EntornsDeDesenvolupament\\IDE\\A06\\A06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paugu\\AppData\\Roaming\\NuGet\\NuGet.Config",
