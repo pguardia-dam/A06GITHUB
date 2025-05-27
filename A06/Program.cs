@@ -6,6 +6,9 @@ namespace A06
     {
         static void Main(string[] args)
         {
+            
+            Console.Write("Canvi desde github: ");
+            
             Console.Write("Introdueix el valor màxim: ");
             int maxim = int.Parse(Console.ReadLine());
             int valor = 7;
